@@ -23,7 +23,7 @@ gem "rails", "3.0.3"
 # end
 
 gem "warden"
-gem "devise", "1.1.rc2"
+gem "devise"
 gem "haml"
 # gem "webrat"
 # gem "database_cleaner"
