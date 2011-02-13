@@ -1,6 +1,5 @@
 # Edit this Gemfile to bundle your application's dependencies.
-source 'http://gemcutter.org'
-
+source "http://rubygems.org"
 
 gem "rails", "3.0.3"
 
@@ -9,7 +8,7 @@ gem "rails", "3.0.3"
 
 # ActiveRecord requires a database adapter. By default,
 # Rails has selected sqlite3.
-gem "sqlite3-ruby", :require => "sqlite3"
+# gem "sqlite3-ruby", :require => "sqlite3"
 
 ## Bundle the gems you use:
 # gem "bj"
